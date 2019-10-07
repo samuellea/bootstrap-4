@@ -1,0 +1,40 @@
+.outer {
+  background-color: palegoldenrod;
+  height: 100vh;
+}
+
+.bluerow {
+  height: 50%;
+}
+
+.bluerow div {
+  background-color: skyblue;
+}
+
+.pinkrow div {
+  background-color: pink;
+}
+
+.yellowrow {
+  background-color: yellow;
+}
+
+.row div {
+  border-radius: 5px;
+  /* margin: 10px 10px 0px 0px; */
+  padding: 20px 5px 5px 5px;
+}
+
+.jumbotron {
+  /* background: #aaa; */
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card img {
+  width: 75%;
+}
